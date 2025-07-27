@@ -51,4 +51,4 @@ Here's an example of what the chart looks like:
 
 1. Open the option "New Terminal" on python
 2. Install FastF1: pip install -U fastf1
-3. Once installed fastf1 write on the terminal
+3. Code example:
