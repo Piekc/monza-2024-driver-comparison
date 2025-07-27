@@ -51,4 +51,5 @@ Here's an example of what the chart looks like:
 
 1. Open the option "New Terminal" on python
 2. Install FastF1: pip install -U fastf1
-3. Code example:
+3. Code example: https://github.com/Piekc/monza-2024-driver-comparison/blob/af77b2e1405fc9bdca2a69117754ed7f173f897f/YukiVER.py
+4. 
