@@ -40,6 +40,14 @@ This is just an example — you can totally change the drivers and analyze anyon
 
 ---
 
+## Final thoughts
+
+I’m really enjoying combining my passion for cars and coding through projects like this.
+Even though this is just a simple script, it’s been super helpful to understand how engineers and analysts look at race data.
+There’s still sooo much more I want to learn. But this is my start
+
+---
+
 ##  Output example
 
 Here's an example of what the chart looks like:  
