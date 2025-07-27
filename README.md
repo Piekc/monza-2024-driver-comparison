@@ -2,10 +2,10 @@
 
 # F1 Driver Lap Time Comparison using FastF1
 
-Hi again! I'm Pía 🌸 I'm 18 and currently studying engineering — and honestly, I’ve been super obsessed with Formula 1 lately. This little project is part of my learning journey in motorsport analytics.
+Hi again! I'm Pía I'm 18 and currently studying engineering — and honestly, I’ve been super obsessed with Formula 1 lately. This little project is part of my learning journey in motorsport analytics.
 
 This time, I made a script that compares two F1 drivers' lap times during the **2024 Italian Grand Prix in Monza**.  
-I picked **Yuki Tsunoda** (my favorite 💙) and **Max Verstappen** (who's super consistent and fast), just to compare how their performance looked lap-by-lap.
+I picked **Yuki Tsunoda** (my favorite ) and **Max Verstappen** (who's super consistent and fast), just to compare how their performance looked lap-by-lap.
 
 ---
 
